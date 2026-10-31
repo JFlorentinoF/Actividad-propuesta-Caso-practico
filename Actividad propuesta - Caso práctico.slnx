@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Actividad propuesta - Caso práctico/Actividad propuesta - Caso práctico.vcxproj" />
+</Solution>
