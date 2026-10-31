@@ -25,6 +25,11 @@ Este programa en C++ permite calcular el total a pagar por una compra a partir d
 
 - **Total a pagar:** Muestra el monto final de la compra, incluyendo el descuento cuando corresponda.
 
+## Capturas del programa en ejecución
+
+### Prueba 1: Sin descuento
+!
+
 ## 6. Estructuras utilizadas y su función
 
 - **Función `calcularTotalPagar()`:** Se utiliza una función de tipo `double` porque necesita realizar operaciones matemáticas y retornar el total de la compra. Recibe la cantidad y el precio como parámetros, calcula el subtotal y aplica el descuento del 10% si supera los RD$5,000.
