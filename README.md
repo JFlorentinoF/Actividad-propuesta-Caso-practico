@@ -28,7 +28,9 @@ Este programa en C++ permite calcular el total a pagar por una compra a partir d
 ## Capturas del programa en ejecución
 
 ### Prueba 1: Sin descuento
-!
+![image alt](https://github.com/JFlorentinoF/Actividad-propuesta---Caso-pr-ctico/blob/5e0ffcb8f955bb8b5741f41b26b764c644afcd21/Prueba1.png)
+### Prueba 2: Con descuento
+![image alt]
 
 ## 6. Estructuras utilizadas y su función
 
